@@ -3,7 +3,12 @@
 把看过觉得受益良多的Android文章系列做的一个索引，不断更新...
 
 ## 英文
-
+>* Cyril Mottier关于ListView的系列，读完可以掌握绝大部分ListView的姿势。文章和范例都很漂亮，知其然知其所以然。  
+[ListView Tips & Tricks #1: Handling Emptiness](http://www.cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/)  
+[ListView Tips & Tricks #2: Sectioning Your ListView](http://www.cyrilmottier.com/2011/07/05/listview-tips-tricks-2-section-your-listview/)  
+[ListView Tips & Tricks #3: Create Fancy ListViews](http://www.cyrilmottier.com/2011/08/08/listview-tips-tricks-3-create-fancy-listviews/)  
+[ListView Tips & Tricks #4: Add Several Clickable Areas](http://www.cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/)  
+[ListView Tips & Tricks #5: Enlarged Touchable Areas](http://www.cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/)
 ## 中文
 
 
