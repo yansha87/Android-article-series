@@ -9,6 +9,8 @@
 [ListView Tips & Tricks #3: Create Fancy ListViews](http://www.cyrilmottier.com/2011/08/08/listview-tips-tricks-3-create-fancy-listviews/)  
 [ListView Tips & Tricks #4: Add Several Clickable Areas](http://www.cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/)  
 [ListView Tips & Tricks #5: Enlarged Touchable Areas](http://www.cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/)
+
+---  
 ## 中文
 
 
