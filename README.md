@@ -29,7 +29,7 @@
 [Android应用程序开发以及背后的设计思想深度剖析（4）](http://blog.csdn.net/21cnbao/article/details/8018768)  
 [Android应用程序开发以及背后的设计思想深度剖析（5）](http://blog.csdn.net/21cnbao/article/details/8068896)  
 
->* 罗老师的Android虚拟机之旅，对Dalvik和ART都有较深入的介绍。这只是学习计划，里面有更详细的章节。对我而言，老罗真是神一般的存在。BTW，他的其他文章统统不错。实话说(4)还没时间和精力看。 
+>* 罗老师的Android虚拟机之旅，对Dalvik和ART都有较深入的介绍。这只是学习计划，里面有更详细的章节。对我而言，老罗真是神一般的存在。BTW，他的其他文章统统不错。实话说(4)还没时间和精力看。   
 [(1)Android运行时ART简要介绍和学习计划](http://blog.csdn.net/luoshengyang/article/details/39256813)    
 [(2)Dalvik虚拟机垃圾收集机制简要介绍和学习计划](http://blog.csdn.net/luoshengyang/article/details/41338251)  
 [(3)ART运行时垃圾收集机制简要介绍和学习计划](http://blog.csdn.net/luoshengyang/article/details/42072975)  
