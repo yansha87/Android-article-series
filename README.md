@@ -30,6 +30,13 @@ Tools`](https://medium.com/google-developers/developing-for-android-ix-tools-375
 [`ListView Tips & Tricks #4: Add Several Clickable Areas`](http://www.cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/)  
 [`ListView Tips & Tricks #5: Enlarged Touchable Areas`](http://www.cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/)
 
+>* Dan Lew关于Android开发过程中一些很实用的tips，其中有些tips会让我有种相见恨晚的感觉，熟悉这些让人开发起来更加得心应手。  
+[`Android Tips Round-Up, Part 1`](http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/)  
+[`Android Tips Round-Up, Part 2`](http://blog.danlew.net/2014/04/14/android-tips-round-up-part-2/)  
+[`Android Tips Round-Up, Part 3`](http://blog.danlew.net/2014/04/28/android-tips-round-up-part-3/)  
+[`Android Tips Round-Up, Part 4`](http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/)  
+[`Android Tips Round-Up, Part 5`](http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/)  
+
 >* Styling Android关于Data Binding库的系列，Data Binding是Google I/O 2015新发布的功能，文中介绍其机制和主要用法。范例使用了Twitter的数据，忧伤！  
 [`Data Binding – Part 1`](https://blog.stylingandroid.com/data-binding-part-1)  
 [`Data Binding – Part 2`](https://blog.stylingandroid.com/data-binding-part-2)  
