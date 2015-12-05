@@ -23,19 +23,12 @@ The Rules: User Interface`](https://medium.com/google-developers/developing-for-
 [`Developing for Android IX -
 Tools`](https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098#.3p2zvwan4)  
 
->* Cyril Mottier关于ListView的系列，读完可以掌握大部分ListView的姿势。文章和范例都很漂亮，知其然知其所以然。  
+>* Cyril Mottier关于ListView的系列，读完可以掌握大部分ListView的姿势。文章和范例都很漂亮，知其然知其所以然。虽然现在有RecyclerView可用，但也可以忆苦思甜。  
 [`ListView Tips & Tricks #1: Handling Emptiness`](http://www.cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/)  
 [`ListView Tips & Tricks #2: Sectioning Your ListView`](http://www.cyrilmottier.com/2011/07/05/listview-tips-tricks-2-section-your-listview/)  
 [`ListView Tips & Tricks #3: Create Fancy ListViews`](http://www.cyrilmottier.com/2011/08/08/listview-tips-tricks-3-create-fancy-listviews/)  
 [`ListView Tips & Tricks #4: Add Several Clickable Areas`](http://www.cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/)  
 [`ListView Tips & Tricks #5: Enlarged Touchable Areas`](http://www.cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/)
-
->* Dan Lew关于Android开发过程中一些很实用的tips，其中有些tips会让我有种相见恨晚的感觉，熟悉这些让人开发起来更加得心应手。  
-[`Android Tips Round-Up, Part 1`](http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/)  
-[`Android Tips Round-Up, Part 2`](http://blog.danlew.net/2014/04/14/android-tips-round-up-part-2/)  
-[`Android Tips Round-Up, Part 3`](http://blog.danlew.net/2014/04/28/android-tips-round-up-part-3/)  
-[`Android Tips Round-Up, Part 4`](http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/)  
-[`Android Tips Round-Up, Part 5`](http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/)  
 
 >* Styling Android关于Data Binding库的系列，Data Binding是Google I/O 2015新发布的功能，文中介绍其机制和主要用法。范例使用了Twitter的数据，忧伤！  
 [`Data Binding – Part 1`](https://blog.stylingandroid.com/data-binding-part-1)  
@@ -44,17 +37,32 @@ Tools`](https://medium.com/google-developers/developing-for-android-ix-tools-375
 [`Data Binding – Part 4`](https://blog.stylingandroid.com/data-binding-part-4)  
 [`Data Binding – Part 5`](https://blog.stylingandroid.com/data-binding-part-5)  
 
+>* Dan Lew关于Android开发过程中一些很实用的tips，其中有些tips会让我有种相见恨晚的感觉，熟悉这些让人开发起来更加得心应手。  
+[`Android Tips Round-Up, Part 1`](http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/)  
+[`Android Tips Round-Up, Part 2`](http://blog.danlew.net/2014/04/14/android-tips-round-up-part-2/)  
+[`Android Tips Round-Up, Part 3`](http://blog.danlew.net/2014/04/28/android-tips-round-up-part-3/)  
+[`Android Tips Round-Up, Part 4`](http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/)  
+[`Android Tips Round-Up, Part 5`](http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/)  
 
 ---  
 ## 中文
 
 
->* 吴赫老师的这个系列，对了解Android设计思想很有帮助，第一次看到时真的很惊喜，是可以发人深省的好文章。跪着看过几遍，还没有完全消化。文章有点老，有一些错别字，但对Android系统总体把握真心不错。  
+>* 吴赫老师的这个系列，对了解Android设计思想很有帮助，第一次看到时真的很惊喜，是可以发人深省的好文章。跪着看过几遍，还没有完全消化。文章有点老，有一些错别字，但对Android系统总体把握真心不错，很有温度的文章。  
 [`Android应用程序开发以及背后的设计思想深度剖析(1)`](http://blog.csdn.net/21cnbao/article/details/7835255)    
 [`Android应用程序开发以及背后的设计思想深度剖析(2)`](http://blog.csdn.net/21cnbao/article/details/7917652)    
 [`Android应用程序开发以及背后的设计思想深度剖析(3)`](http://blog.csdn.net/21cnbao/article/details/7980633)    
 [`Android应用程序开发以及背后的设计思想深度剖析(4)`](http://blog.csdn.net/21cnbao/article/details/8018768)    
 [`Android应用程序开发以及背后的设计思想深度剖析(5)`](http://blog.csdn.net/21cnbao/article/details/8068896)    
+
+>* 同样是吴赫老师写的关于Service以及Android系统设计。写的全面深入，简直是业界良心，常读常新。  
+[`Service与Android系统设计(1) -- 应用程序里的Service`](http://blog.csdn.net/21cnbao/article/details/8086487)    
+[`Service与Android系统设计(2) -- Parcel`](http://blog.csdn.net/21cnbao/article/details/8086619)  
+[`Service与Android系统设计(2) -- ActivityManager的实现`](http://blog.csdn.net/21cnbao/article/details/8087291)  
+[`Service与Android系统设计(2) -- ServiceManager`](http://blog.csdn.net/21cnbao/article/details/8087304)  
+[`Service与Android系统设计(2) -- libbinder`](http://blog.csdn.net/21cnbao/article/details/8087326)  
+[`Service与Android系统设计(2) -- Native Service`](http://blog.csdn.net/21cnbao/article/details/8087328)  
+[`Service与Android系统设计(2) -- Binder驱动`](http://blog.csdn.net/21cnbao/article/details/8087354)  
 
 >* 罗老师的Android虚拟机之旅，对Dalvik和ART都有较深入的介绍。学习计划包含四部分，里面有更详细的章节。对我而言，老罗真是神一般的存在，实话说(4)还没时间和精力看。BTW，他的其他文章统统不错。  
 [`(1)Android运行时ART简要介绍和学习计划`](http://blog.csdn.net/luoshengyang/article/details/39256813)    
