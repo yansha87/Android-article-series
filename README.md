@@ -23,6 +23,13 @@ The Rules: User Interface`](https://medium.com/google-developers/developing-for-
 [`Developing for Android IX -
 Tools`](https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098#.3p2zvwan4)  
 
+>* Daniele Altomare出品，关于Android逆向工程基础知识的系列文章。文章主要介绍了APK编译过程和常用的反编译工具，短小精悍。  
+[`Part 1 – APK and AAR format`](http://www.fasteque.com/android-reverse-engineering-101-part-1/)  
+[`Part 2 – aapt`](http://www.fasteque.com/android-reverse-engineering-101-part-2/)  
+[`Part 3 – dex2jar`](http://www.fasteque.com/android-reverse-engineering-101-part-3/)  
+[`Part 4 – apktool`](http://www.fasteque.com/android-reverse-engineering-101-part-4/)  
+[`Part 5 – Androguard`](http://www.fasteque.com/android-reverse-engineering-101-part-5/)  
+
 >* Cyril Mottier关于ListView的系列，读完可以掌握大部分ListView的姿势。文章和范例都很漂亮，知其然知其所以然。虽然现在有RecyclerView可用，但也可以忆苦思甜。  
 [`ListView Tips & Tricks #1: Handling Emptiness`](http://www.cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/)  
 [`ListView Tips & Tricks #2: Sectioning Your ListView`](http://www.cyrilmottier.com/2011/07/05/listview-tips-tricks-2-section-your-listview/)  
