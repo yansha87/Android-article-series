@@ -1,5 +1,5 @@
 
->* Google³öÆ·£¬¹ØÓÚAndroidÓ¦ÓÃ¿ª·¢µÄÒ»Ğ©×î¼ÑÊµ¼ù¡£ÎÄÕÂ¶¼²»³¤£¬°ÑËüµ±Ó¦ÓÃ¿ª·¢µÄ¾ü¹æ¶ÁºÃÁË£¬»¹ÊÇ±È½Ï¹ıñ«µÄ¡£  
+>* Googleå‡ºå“ï¼Œå…³äºAndroidåº”ç”¨å¼€å‘çš„ä¸€äº›æœ€ä½³å®è·µã€‚æ–‡ç« éƒ½ä¸é•¿ï¼ŒæŠŠå®ƒå½“åº”ç”¨å¼€å‘çš„å†›è§„è¯»å¥½äº†ï¼Œè¿˜æ˜¯æ¯”è¾ƒè¿‡ç˜¾çš„ã€‚  
 [`Developing for Android - Introduction`](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c#.cuwu09rc7)  
 [`Developing for Android I - Understanding the Mobile Context`](https://medium.com/google-developers/developing-for-android-i-understanding-the-mobile-context-fd2351b131f8#.mipv6qs0j)  
 [`Developing for Android II -
@@ -19,32 +19,36 @@ The Rules: User Interface`](https://medium.com/google-developers/developing-for-
 [`Developing for Android IX -
 Tools`](https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098#.3p2zvwan4)  
 
->* Daniele Altomare³öÆ·£¬¹ØÓÚAndroidÄæÏò¹¤³Ì»ù´¡ÖªÊ¶µÄÏµÁĞÎÄÕÂ¡£ÎÄÕÂÖ÷Òª½éÉÜÁËAPK±àÒë¹ı³ÌºÍ³£ÓÃµÄ·´±àÒë¹¤¾ß£¬¶ÌĞ¡¾«º·¡£  
-[`Part 1 ¨C APK and AAR format`](http://www.fasteque.com/android-reverse-engineering-101-part-1/)  
-[`Part 2 ¨C aapt`](http://www.fasteque.com/android-reverse-engineering-101-part-2/)  
-[`Part 3 ¨C dex2jar`](http://www.fasteque.com/android-reverse-engineering-101-part-3/)  
-[`Part 4 ¨C apktool`](http://www.fasteque.com/android-reverse-engineering-101-part-4/)  
-[`Part 5 ¨C Androguard`](http://www.fasteque.com/android-reverse-engineering-101-part-5/)  
+>* Daniele Altomareå‡ºå“ï¼Œå…³äºAndroidé€†å‘å·¥ç¨‹åŸºç¡€çŸ¥è¯†çš„ç³»åˆ—æ–‡ç« ã€‚æ–‡ç« ä¸»è¦ä»‹ç»äº†APKç¼–è¯‘è¿‡ç¨‹å’Œå¸¸ç”¨çš„åç¼–è¯‘å·¥å…·ï¼ŒçŸ­å°ç²¾æ‚ã€‚  
+[`Part 1 â€“ APK and AAR format`](http://www.fasteque.com/android-reverse-engineering-101-part-1/)  
+[`Part 2 â€“ aapt`](http://www.fasteque.com/android-reverse-engineering-101-part-2/)  
+[`Part 3 â€“ dex2jar`](http://www.fasteque.com/android-reverse-engineering-101-part-3/)  
+[`Part 4 â€“ apktool`](http://www.fasteque.com/android-reverse-engineering-101-part-4/)  
+[`Part 5 â€“ Androguard`](http://www.fasteque.com/android-reverse-engineering-101-part-5/)  
 
->* Cyril Mottier¹ØÓÚListViewµÄÏµÁĞ£¬¶ÁÍê¿ÉÒÔÕÆÎÕ´ó²¿·ÖListViewµÄ×ËÊÆ¡£ÎÄÕÂºÍ·¶Àı¶¼ºÜÆ¯ÁÁ£¬ÖªÆäÈ»ÖªÆäËùÒÔÈ»¡£ËäÈ»ÏÖÔÚÓĞRecyclerView¿ÉÓÃ£¬µ«Ò²¿ÉÒÔÒä¿àË¼Ìğ¡£  
+>* Cyril Mottierå…³äºListViewçš„ç³»åˆ—ï¼Œè¯»å®Œå¯ä»¥æŒæ¡å¤§éƒ¨åˆ†ListViewçš„å§¿åŠ¿ã€‚æ–‡ç« å’ŒèŒƒä¾‹éƒ½å¾ˆæ¼‚äº®ï¼ŒçŸ¥å…¶ç„¶çŸ¥å…¶æ‰€ä»¥ç„¶ã€‚è™½ç„¶ç°åœ¨æœ‰RecyclerViewå¯ç”¨ï¼Œä½†ä¹Ÿå¯ä»¥å¿†è‹¦æ€ç”œã€‚  
 [`ListView Tips & Tricks #1: Handling Emptiness`](http://www.cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/)  
 [`ListView Tips & Tricks #2: Sectioning Your ListView`](http://www.cyrilmottier.com/2011/07/05/listview-tips-tricks-2-section-your-listview/)  
 [`ListView Tips & Tricks #3: Create Fancy ListViews`](http://www.cyrilmottier.com/2011/08/08/listview-tips-tricks-3-create-fancy-listviews/)  
 [`ListView Tips & Tricks #4: Add Several Clickable Areas`](http://www.cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/)  
 [`ListView Tips & Tricks #5: Enlarged Touchable Areas`](http://www.cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/)
 
->* Styling Android¹ØÓÚData Binding¿âµÄÏµÁĞ£¬Data BindingÊÇGoogle I/O 2015ĞÂ·¢²¼µÄ¹¦ÄÜ£¬ÎÄÖĞ½éÉÜÆä»úÖÆºÍÖ÷ÒªÓÃ·¨¡£·¶ÀıÊ¹ÓÃÁËTwitterµÄÊı¾İ£¬ÓÇÉË£¡  
-[`Data Binding ¨C Part 1`](https://blog.stylingandroid.com/data-binding-part-1)  
-[`Data Binding ¨C Part 2`](https://blog.stylingandroid.com/data-binding-part-2)  
-[`Data Binding ¨C Part 3`](https://blog.stylingandroid.com/data-binding-part-3)  
-[`Data Binding ¨C Part 4`](https://blog.stylingandroid.com/data-binding-part-4)  
-[`Data Binding ¨C Part 5`](https://blog.stylingandroid.com/data-binding-part-5)  
+>* Styling Androidå…³äºData Bindingåº“çš„ç³»åˆ—ï¼ŒData Bindingæ˜¯Google I/O 2015æ–°å‘å¸ƒçš„åŠŸèƒ½ï¼Œæ–‡ä¸­ä»‹ç»å…¶æœºåˆ¶å’Œä¸»è¦ç”¨æ³•ã€‚èŒƒä¾‹ä½¿ç”¨äº†Twitterçš„æ•°æ®ï¼Œå¿§ä¼¤ï¼  
+[`Data Binding â€“ Part 1`](https://blog.stylingandroid.com/data-binding-part-1)  
+[`Data Binding â€“ Part 2`](https://blog.stylingandroid.com/data-binding-part-2)  
+[`Data Binding â€“ Part 3`](https://blog.stylingandroid.com/data-binding-part-3)  
+[`Data Binding â€“ Part 4`](https://blog.stylingandroid.com/data-binding-part-4)  
+[`Data Binding â€“ Part 5`](https://blog.stylingandroid.com/data-binding-part-5)  
 
->* Dan Lew¹ØÓÚAndroid¿ª·¢¹ı³ÌÖĞÒ»Ğ©ºÜÊµÓÃµÄtips£¬ÆäÖĞÓĞĞ©tips»áÈÃÎÒÓĞÖÖÏà¼ûºŞÍíµÄ¸Ğ¾õ£¬ÊìÏ¤ÕâĞ©ÈÃÈË¿ª·¢ÆğÀ´¸ü¼ÓµÃĞÄÓ¦ÊÖ¡£  
+>* Dan Lewå…³äºAndroidå¼€å‘è¿‡ç¨‹ä¸­ä¸€äº›å¾ˆå®ç”¨çš„tipsï¼Œå…¶ä¸­æœ‰äº›tipsä¼šè®©æˆ‘æœ‰ç§ç›¸è§æ¨æ™šçš„æ„Ÿè§‰ï¼Œç†Ÿæ‚‰è¿™äº›è®©äººå¼€å‘èµ·æ¥æ›´åŠ å¾—å¿ƒåº”æ‰‹ã€‚  
 [`Android Tips Round-Up, Part 1`](http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/)  
 [`Android Tips Round-Up, Part 2`](http://blog.danlew.net/2014/04/14/android-tips-round-up-part-2/)  
 [`Android Tips Round-Up, Part 3`](http://blog.danlew.net/2014/04/28/android-tips-round-up-part-3/)  
 [`Android Tips Round-Up, Part 4`](http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/)  
 [`Android Tips Round-Up, Part 5`](http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/)  
 
----  
+>* danlewå†™çš„RxJavaå…¥é—¨ç³»åˆ—ï¼Œé€šä¿—æ˜“æ‡‚ï¼ŒçœŸçš„æ˜¯æŠŠå¤æ‚é—®é¢˜ç®€å•åŒ–ã€‚  
+[Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)  
+[Grokking RxJava, Part 2: Operator, Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)  
+[Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)  
+[Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)  
