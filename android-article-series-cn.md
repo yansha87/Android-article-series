@@ -1,22 +1,22 @@
 
->* ÎâºÕÀÏÊ¦µÄÕâ¸öÏµÁĞ£¬¶ÔÁË½âAndroidÉè¼ÆË¼ÏëºÜÓĞ°ïÖú£¬µÚÒ»´Î¿´µ½Ê±ÕæµÄºÜ¾ªÏ²£¬ÊÇ¿ÉÒÔ·¢ÈËÉîÊ¡µÄºÃÎÄÕÂ¡£¹ò×Å¿´¹ı¼¸±é£¬»¹Ã»ÓĞÍêÈ«Ïû»¯¡£ÎÄÕÂÓĞµãÀÏ£¬ÓĞÒ»Ğ©´í±ğ×Ö£¬µ«¶ÔAndroidÏµÍ³×ÜÌå°ÑÎÕÕæĞÄ²»´í£¬ºÜÓĞÎÂ¶ÈµÄÎÄÕÂ¡£  
-[`AndroidÓ¦ÓÃ³ÌĞò¿ª·¢ÒÔ¼°±³ºóµÄÉè¼ÆË¼ÏëÉî¶ÈÆÊÎö(1)`](http://blog.csdn.net/21cnbao/article/details/7835255)    
-[`AndroidÓ¦ÓÃ³ÌĞò¿ª·¢ÒÔ¼°±³ºóµÄÉè¼ÆË¼ÏëÉî¶ÈÆÊÎö(2)`](http://blog.csdn.net/21cnbao/article/details/7917652)    
-[`AndroidÓ¦ÓÃ³ÌĞò¿ª·¢ÒÔ¼°±³ºóµÄÉè¼ÆË¼ÏëÉî¶ÈÆÊÎö(3)`](http://blog.csdn.net/21cnbao/article/details/7980633)    
-[`AndroidÓ¦ÓÃ³ÌĞò¿ª·¢ÒÔ¼°±³ºóµÄÉè¼ÆË¼ÏëÉî¶ÈÆÊÎö(4)`](http://blog.csdn.net/21cnbao/article/details/8018768)    
-[`AndroidÓ¦ÓÃ³ÌĞò¿ª·¢ÒÔ¼°±³ºóµÄÉè¼ÆË¼ÏëÉî¶ÈÆÊÎö(5)`](http://blog.csdn.net/21cnbao/article/details/8068896)    
+>* å´èµ«è€å¸ˆçš„è¿™ä¸ªç³»åˆ—ï¼Œå¯¹äº†è§£Androidè®¾è®¡æ€æƒ³å¾ˆæœ‰å¸®åŠ©ï¼Œç¬¬ä¸€æ¬¡çœ‹åˆ°æ—¶çœŸçš„å¾ˆæƒŠå–œï¼Œæ˜¯å¯ä»¥å‘äººæ·±çœçš„å¥½æ–‡ç« ã€‚è·ªç€çœ‹è¿‡å‡ éï¼Œè¿˜æ²¡æœ‰å®Œå…¨æ¶ˆåŒ–ã€‚æ–‡ç« æœ‰ç‚¹è€ï¼Œæœ‰ä¸€äº›é”™åˆ«å­—ï¼Œä½†å¯¹Androidç³»ç»Ÿæ€»ä½“æŠŠæ¡çœŸå¿ƒä¸é”™ï¼Œå¾ˆæœ‰æ¸©åº¦çš„æ–‡ç« ã€‚  
+[`Androidåº”ç”¨ç¨‹åºå¼€å‘ä»¥åŠèƒŒåçš„è®¾è®¡æ€æƒ³æ·±åº¦å‰–æ(1)`](http://blog.csdn.net/21cnbao/article/details/7835255)    
+[`Androidåº”ç”¨ç¨‹åºå¼€å‘ä»¥åŠèƒŒåçš„è®¾è®¡æ€æƒ³æ·±åº¦å‰–æ(2)`](http://blog.csdn.net/21cnbao/article/details/7917652)    
+[`Androidåº”ç”¨ç¨‹åºå¼€å‘ä»¥åŠèƒŒåçš„è®¾è®¡æ€æƒ³æ·±åº¦å‰–æ(3)`](http://blog.csdn.net/21cnbao/article/details/7980633)    
+[`Androidåº”ç”¨ç¨‹åºå¼€å‘ä»¥åŠèƒŒåçš„è®¾è®¡æ€æƒ³æ·±åº¦å‰–æ(4)`](http://blog.csdn.net/21cnbao/article/details/8018768)    
+[`Androidåº”ç”¨ç¨‹åºå¼€å‘ä»¥åŠèƒŒåçš„è®¾è®¡æ€æƒ³æ·±åº¦å‰–æ(5)`](http://blog.csdn.net/21cnbao/article/details/8068896)    
 
->* Í¬ÑùÊÇÎâºÕÀÏÊ¦Ğ´µÄ¹ØÓÚServiceÒÔ¼°AndroidÏµÍ³Éè¼Æ¡£Ğ´µÄÈ«ÃæÉîÈë£¬¼òÖ±ÊÇÒµ½çÁ¼ĞÄ£¬³£¶Á³£ĞÂ¡£  
-[`ServiceÓëAndroidÏµÍ³Éè¼Æ(1) -- Ó¦ÓÃ³ÌĞòÀïµÄService`](http://blog.csdn.net/21cnbao/article/details/8086487)    
-[`ServiceÓëAndroidÏµÍ³Éè¼Æ(2) -- Parcel`](http://blog.csdn.net/21cnbao/article/details/8086619)  
-[`ServiceÓëAndroidÏµÍ³Éè¼Æ(2) -- ActivityManagerµÄÊµÏÖ`](http://blog.csdn.net/21cnbao/article/details/8087291)  
-[`ServiceÓëAndroidÏµÍ³Éè¼Æ(2) -- ServiceManager`](http://blog.csdn.net/21cnbao/article/details/8087304)  
-[`ServiceÓëAndroidÏµÍ³Éè¼Æ(2) -- libbinder`](http://blog.csdn.net/21cnbao/article/details/8087326)  
-[`ServiceÓëAndroidÏµÍ³Éè¼Æ(2) -- Native Service`](http://blog.csdn.net/21cnbao/article/details/8087328)  
-[`ServiceÓëAndroidÏµÍ³Éè¼Æ(2) -- BinderÇı¶¯`](http://blog.csdn.net/21cnbao/article/details/8087354)  
+>* åŒæ ·æ˜¯å´èµ«è€å¸ˆå†™çš„å…³äºServiceä»¥åŠAndroidç³»ç»Ÿè®¾è®¡ã€‚å†™çš„å…¨é¢æ·±å…¥ï¼Œç®€ç›´æ˜¯ä¸šç•Œè‰¯å¿ƒï¼Œå¸¸è¯»å¸¸æ–°ã€‚  
+[`Serviceä¸Androidç³»ç»Ÿè®¾è®¡(1) -- åº”ç”¨ç¨‹åºé‡Œçš„Service`](http://blog.csdn.net/21cnbao/article/details/8086487)    
+[`Serviceä¸Androidç³»ç»Ÿè®¾è®¡(2) -- Parcel`](http://blog.csdn.net/21cnbao/article/details/8086619)  
+[`Serviceä¸Androidç³»ç»Ÿè®¾è®¡(3) -- ActivityManagerçš„å®ç°`](http://blog.csdn.net/21cnbao/article/details/8087291)  
+[`Serviceä¸Androidç³»ç»Ÿè®¾è®¡(4) -- ServiceManager`](http://blog.csdn.net/21cnbao/article/details/8087304)  
+[`Serviceä¸Androidç³»ç»Ÿè®¾è®¡(5) -- libbinder`](http://blog.csdn.net/21cnbao/article/details/8087326)  
+[`Serviceä¸Androidç³»ç»Ÿè®¾è®¡(6) -- Native Service`](http://blog.csdn.net/21cnbao/article/details/8087328)  
+[`Serviceä¸Androidç³»ç»Ÿè®¾è®¡(7) -- Binderé©±åŠ¨`](http://blog.csdn.net/21cnbao/article/details/8087354)  
 
->* ÂŞÀÏÊ¦µÄAndroidĞéÄâ»úÖ®ÂÃ£¬¶ÔDalvikºÍART¶¼ÓĞ½ÏÉîÈëµÄ½éÉÜ¡£Ñ§Ï°¼Æ»®°üº¬ËÄ²¿·Ö£¬ÀïÃæÓĞ¸üÏêÏ¸µÄÕÂ½Ú¡£¶ÔÎÒ¶øÑÔ£¬ÀÏÂŞÕæÊÇÉñÒ»°ãµÄ´æÔÚ£¬Êµ»°Ëµ(4)»¹Ã»Ê±¼äºÍ¾«Á¦¿´¡£BTW£¬ËûµÄÆäËûÎÄÕÂÍ³Í³²»´í¡£  
-[`(1)AndroidÔËĞĞÊ±ART¼òÒª½éÉÜºÍÑ§Ï°¼Æ»®`](http://blog.csdn.net/luoshengyang/article/details/39256813)    
-[`(2)DalvikĞéÄâ»úÀ¬»øÊÕ¼¯»úÖÆ¼òÒª½éÉÜºÍÑ§Ï°¼Æ»®`](http://blog.csdn.net/luoshengyang/article/details/41338251)    
-[`(3)ARTÔËĞĞÊ±À¬»øÊÕ¼¯»úÖÆ¼òÒª½éÉÜºÍÑ§Ï°¼Æ»®`](http://blog.csdn.net/luoshengyang/article/details/42072975)    
-[`(4)ARTÔËĞĞÊ±Compacting GC¼òÒª½éÉÜºÍÑ§Ï°¼Æ»®`](http://blog.csdn.net/luoshengyang/article/details/44513977)   
+>* ç½—è€å¸ˆçš„Androidè™šæ‹Ÿæœºä¹‹æ—…ï¼Œå¯¹Dalvikå’ŒARTéƒ½æœ‰è¾ƒæ·±å…¥çš„ä»‹ç»ã€‚å­¦ä¹ è®¡åˆ’åŒ…å«å››éƒ¨åˆ†ï¼Œé‡Œé¢æœ‰æ›´è¯¦ç»†çš„ç« èŠ‚ã€‚å¯¹æˆ‘è€Œè¨€ï¼Œè€ç½—çœŸæ˜¯ç¥ä¸€èˆ¬çš„å­˜åœ¨ï¼Œå®è¯è¯´(4)è¿˜æ²¡æ—¶é—´å’Œç²¾åŠ›çœ‹ã€‚BTWï¼Œä»–çš„å…¶ä»–æ–‡ç« ç»Ÿç»Ÿä¸é”™ã€‚  
+[`(1)Androidè¿è¡Œæ—¶ARTç®€è¦ä»‹ç»å’Œå­¦ä¹ è®¡åˆ’`](http://blog.csdn.net/luoshengyang/article/details/39256813)    
+[`(2)Dalvikè™šæ‹Ÿæœºåƒåœ¾æ”¶é›†æœºåˆ¶ç®€è¦ä»‹ç»å’Œå­¦ä¹ è®¡åˆ’`](http://blog.csdn.net/luoshengyang/article/details/41338251)    
+[`(3)ARTè¿è¡Œæ—¶åƒåœ¾æ”¶é›†æœºåˆ¶ç®€è¦ä»‹ç»å’Œå­¦ä¹ è®¡åˆ’`](http://blog.csdn.net/luoshengyang/article/details/42072975)    
+[`(4)ARTè¿è¡Œæ—¶Compacting GCç®€è¦ä»‹ç»å’Œå­¦ä¹ è®¡åˆ’`](http://blog.csdn.net/luoshengyang/article/details/44513977)   
