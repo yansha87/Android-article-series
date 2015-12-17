@@ -47,6 +47,14 @@ Tools`](https://medium.com/google-developers/developing-for-android-ix-tools-375
 [`Android Tips Round-Up, Part 4`](http://blog.danlew.net/2014/05/12/android-tips-round-up-part-4/)  
 [`Android Tips Round-Up, Part 5`](http://blog.danlew.net/2014/05/28/android-tips-round-up-part-5/)  
 
+>* Philippe Breault关于Android Studio使用的tips。听很多人说Android Studio很好用，但一直没明白为什么，直到看到这个系列。好吧，把我看哭了。  
+[`Android Studio Tips Of the Day - Roundup #1`](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)  
+[`Android Studio Tips Of the Day - Roundup #2`](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)  
+[`Android Studio Tips Of the Day - Roundup #3`](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/)  
+[`Android Studio Tips Of the Day - Roundup #4`](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)  
+[`Android Studio Tips Of the Day - Roundup #5`](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)  
+[`Android Studio Tips Of the Day - Roundup #6`](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)  
+
 >* danlew写的RxJava入门系列，通俗易懂，真的是把复杂问题简单化。  
 [`Grokking RxJava, Part 1: The Basics`](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)  
 [`Grokking RxJava, Part 2: Operator, Operator`](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)  
