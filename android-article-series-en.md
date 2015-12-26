@@ -33,7 +33,12 @@ Tools`](https://medium.com/google-developers/developing-for-android-ix-tools-375
 [`ListView Tips & Tricks #4: Add Several Clickable Areas`](http://www.cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/)  
 [`ListView Tips & Tricks #5: Enlarged Touchable Areas`](http://www.cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/)
 
->* Styling Android关于Data Binding库的系列，Data Binding是Google I/O 2015新发布的功能，文中介绍其机制和主要用法。范例使用了Twitter的数据，忧伤！  
+>* Michał Z关于Toolbar滚动时显示或者隐藏的系列，文章与时俱进，考虑到了Toolbar滚动时的各种兼容性问题。  
+[`How to hide/show Toolbar when list is scroling (part 1)`](http://mzgreen.github.io/2015/02/15/How-to-hideshow-Toolbar-when-list-is-scroling(part1)/)  
+[`How to hide/show Toolbar when list is scrolling (part 2)`](http://mzgreen.github.io/2015/02/28/How-to-hideshow-Toolbar-when-list-is-scrolling(part2)/)  
+[`How to hide/show Toolbar when list is scrolling (part 3)`](http://mzgreen.github.io/2015/06/23/How-to-hideshow-Toolbar-when-list-is-scrolling(part3)/)  
+
+>* Styling Android关于Data Binding库的系列，Data Binding是Google I/O 2015新发布的功能，文章介绍其机制和主要用法。范例使用了Twitter的数据，忧伤！  
 [`Data Binding – Part 1`](https://blog.stylingandroid.com/data-binding-part-1)  
 [`Data Binding – Part 2`](https://blog.stylingandroid.com/data-binding-part-2)  
 [`Data Binding – Part 3`](https://blog.stylingandroid.com/data-binding-part-3)  
