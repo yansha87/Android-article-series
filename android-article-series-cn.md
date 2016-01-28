@@ -20,3 +20,13 @@
 [`(2)Dalvik虚拟机垃圾收集机制简要介绍和学习计划`](http://blog.csdn.net/luoshengyang/article/details/41338251)    
 [`(3)ART运行时垃圾收集机制简要介绍和学习计划`](http://blog.csdn.net/luoshengyang/article/details/42072975)    
 [`(4)ART运行时Compacting GC简要介绍和学习计划`](http://blog.csdn.net/luoshengyang/article/details/44513977)   
+
+>* 开发技术前线翻译的《RxJava Essentials》，很不错的介绍 RxJava 的系列文章，内容相当详细。  
+[`RxJava开发精要1 - 从.NET到RxJava`](http://www.devtf.cn/?p=1221)  
+[`RxJava开发精要2 - 为什么是Observables?`](http://www.devtf.cn/?p=1223)  
+[`RxJava开发精要3 - 向响应式世界问好`](http://www.devtf.cn/?p=1225)  
+[`RxJava开发精要4 – Observables过滤`](http://www.devtf.cn/?p=1227)  
+[`RxJava开发精要5 – Observables变换`](http://www.devtf.cn/?p=1231)  
+[`RxJava开发精要6 – Observables组合`](http://www.devtf.cn/?p=1233)  
+[`RxJava开发精要7 – Schedulers-解决Android主线程问题`](http://www.devtf.cn/?p=1235)  
+[`RxJava开发精要8 – 与REST无缝结合-RxJava和Retrofit`](http://www.devtf.cn/?p=1237)  
