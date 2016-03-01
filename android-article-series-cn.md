@@ -21,7 +21,7 @@
 [`(3)ART运行时垃圾收集机制简要介绍和学习计划`](http://blog.csdn.net/luoshengyang/article/details/42072975)    
 [`(4)ART运行时Compacting GC简要介绍和学习计划`](http://blog.csdn.net/luoshengyang/article/details/44513977)   
 
->* 开发技术前线翻译的《RxJava Essentials》，很不错的介绍 RxJava 的系列文章，内容相当详细。  
+>* 开发技术前线翻译的《RxJava Essentials》，很不错的介绍 RxJava 的系列文章，内容相当详细，读完对响应式编程会有一个基本的了解。  
 [`RxJava开发精要1 - 从.NET到RxJava`](http://www.devtf.cn/?p=1221)  
 [`RxJava开发精要2 - 为什么是Observables?`](http://www.devtf.cn/?p=1223)  
 [`RxJava开发精要3 - 向响应式世界问好`](http://www.devtf.cn/?p=1225)  
@@ -30,3 +30,9 @@
 [`RxJava开发精要6 – Observables组合`](http://www.devtf.cn/?p=1233)  
 [`RxJava开发精要7 – Schedulers-解决Android主线程问题`](http://www.devtf.cn/?p=1235)  
 [`RxJava开发精要8 – 与REST无缝结合-RxJava和Retrofit`](http://www.devtf.cn/?p=1237)  
+
+>* 胡凯老师根据 Google 发布的 [Android 性能优化典范视频](http://i.youku.com/u/UMjczOTc0NDkzNg==/playlists)的归纳和整理。涉及到 Android 性能问题的方方面面，包含底层原理，性能调优工具，提升性能建议等内容，常看常新(第5季视频最近出来了)。  
+[`Android性能优化典范 - 第1季`](http://hukai.me/android-performance-patterns/)  
+[`Android性能优化典范 - 第2季`](http://hukai.me/android-performance-patterns-season-2/)  
+[`Android性能优化典范 - 第3季`](http://hukai.me/android-performance-patterns-season-3/)  
+[`Android性能优化典范 - 第4季`](http://hukai.me/android-performance-patterns-season-4/)
